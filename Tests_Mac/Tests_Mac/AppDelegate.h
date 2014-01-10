@@ -6,6 +6,8 @@
 //  Copyright (c) 2014 Apple, Inc. All rights reserved.
 //
 
+// Hello World!
+
 #import <Cocoa/Cocoa.h>
 
 @interface AppDelegate : NSObject <NSApplicationDelegate>
